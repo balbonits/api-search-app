@@ -1,0 +1,19 @@
+{
+  "name": "api-search-app",
+  "version": "1.0.0",
+  "description": "An app that does a search within the API results.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/balbonits/api-search-app.git"
+  },
+  "author": "John Dilig (https://github.com/balbonits)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/balbonits/api-search-app/issues"
+  },
+  "homepage": "https://github.com/balbonits/api-search-app"
+}
